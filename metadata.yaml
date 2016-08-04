@@ -1,0 +1,28 @@
+_repo: Vanished-Arizona--Recollections-of-the-Army-Life-by-a-New-England-Woman_1049
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Summerhayes, Martha
+    birthdate: 1844
+    deathdate: 1926
+    gutenberg_agent_id: '522'
+    url: http://www.gutenberg.org/2009/agents/522
+    wikipedia: http://en.wikipedia.org/wiki/Martha_Summerhayes
+description: ''
+gutenberg_issued: '1997-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army -- Military life'
+- !lcsh 'Arizona -- Biography'
+- !lcc 'F786'
+- !lcsh 'Summerhayes, Martha, 1844-1926'
+- !lcsh 'Arizona -- Description and travel'
+- GITenberg
+title: 'Vanished Arizona: Recollections of the Army Life by a New England Woman'
+url: http://www.gutenberg.org/ebooks/1049
